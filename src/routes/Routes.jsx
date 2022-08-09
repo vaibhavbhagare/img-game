@@ -1,14 +1,16 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import DashboardContainer from "../components/dashboard/DashboardContainer";
-import HomeContainer from "../components/home/HomeContainer";
+import NavbarContainer from "../components/header/Navbar";
+import FeedbackContainer from "../components/feedback/FeedbackContainer";
 const MainRoute = ({}) => {
   return (
     <>
       <BrowserRouter>
+        <NavbarContainer />
         <Routes>
           <Route path="/" element={<DashboardContainer />} />
-          <Route path="/dashboard" element={<DashboardContainer />} />
-          <Route path="/home" element={<HomeContainer />} />
+          <Route path="/topic" element={<DashboardContainer />} />
+          <Route path="/feedback" element={<FeedbackContainer />} />
         </Routes>
       </BrowserRouter>
     </>
