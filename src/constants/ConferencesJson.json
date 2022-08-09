@@ -1,0 +1,58 @@
+[
+    {
+      "title": "React Native EU 2022}",
+      "description": "Demo is here.",
+      "author": "John",
+      "date": "September 1-2, 2022 ",
+      "address": "Remote event",
+      "link": "https://www.google.com"
+    },
+    {
+        "title": "React Finland 2022",
+        "description": "Demo is here.",
+        "author": "Vaibhav",
+        "date": "September 12-16, 2022",
+        "address": "Pune",
+        "link": "https://www.google.com"
+      },
+      {
+        "title": "React India 2022",
+        "description": "Demo is here.",
+        "author": "Taher",
+        "date": "September 01-208, 2022 ",
+        "address": "Mumbai Office",
+        "link": "https://www.google.com"
+      },
+      {
+        "title": "React Norway 2022",
+        "description": "Demo is here.",
+        "author": "Vaibhav",
+        "date": "September 12-23, 2022 ",
+        "address": "Remote event",
+        "link": "https://www.google.com"
+      },
+      {
+        "title": "React Native EU 2022: Powered by {callstack}",
+        "description": "Demo is here.",
+        "author": "Taher",
+        "date": "September 12-24, 2022 ",
+        "address": "Remote event",
+        "link": "https://www.google.com"
+      },
+      {
+        "title": "React Alicante 2022",
+        "description": "Demo is here.",
+        "author": "Vaibhav",
+        "date": "September 11-12, 2022 ",
+        "address": "Remote event",
+        "link": "https://www.google.com"
+      },
+      {
+        "title": "RemixConf 2023",
+        "description": "Demo is here.",
+        "author": "Taher",
+        "date": "September 18-20, 2022 ",
+        "address": "Canada Office",
+        "link": "https://www.google.com"
+      }
+  ]
